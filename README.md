@@ -1,4 +1,4 @@
-# vue-marquee-component
+# vue3-marquee-component
 
 [![npm](https://img.shields.io/npm/v/vue-marquee-component.svg?style=for-the-badge)](https://www.npmjs.com/package/vue-marquee-component)
 [![npm](https://img.shields.io/npm/dt/vue-marquee-component.svg?style=for-the-badge)](https://www.npmjs.com/package/vue-marquee-component)
@@ -10,7 +10,7 @@
 ## Install
 
 ```bash
-  npm install vue-marquee-component --save
+  npm install vue3-marquee-component --save
 ```
 
 ## Usage

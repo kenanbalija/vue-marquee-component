@@ -3,12 +3,12 @@ import Marquee from './src/components/Marquee'
 /** 跑马灯Slide */
 import Slide from './src/components/Slide'
 
-const install = (Vue) => {
+const install = (app) => {
   // 判断是否可以安装
   if (install.installed) return
 
-  Vue.component(Marquee.name, Marquee)
-  Vue.component(Slide.name, Slide)
+  app.component(Marquee.name, Marquee)
+  app.component(Slide.name, Slide)
 
   install.installed = true
 }
