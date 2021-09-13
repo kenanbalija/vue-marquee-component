@@ -1,7 +1,7 @@
 {
-  "name": "@tencent/vue3-marquee-component",
+  "name": "vuejs-marquee-component",
   "version": "0.1.0",
-  "description": "Vue跑马灯组件,支持四个方向滚动",
+  "description": "Vue 3 Marquee",
   "main": "dist/VueMarqueeComponent.common.js",
   "unpkg": "dist/VueMarqueeComponent.umd.min.js",
   "module": "dist/VueMarqueeComponent.common.js",

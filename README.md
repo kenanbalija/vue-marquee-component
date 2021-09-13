@@ -10,7 +10,7 @@
 ## Install
 
 ```bash
-  npm install vue3-marquee-component --save
+  npm install vuejs-marquee-component --save
 ```
 
 ## Usage
